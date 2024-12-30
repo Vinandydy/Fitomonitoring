@@ -72,7 +72,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone 
+    git clone https://github.com/Vinandydy/Fitomonitoring.git
     ```
 2. Установите зависимости:
     ```bash
