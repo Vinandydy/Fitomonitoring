@@ -1,0 +1,15 @@
+Total params: 6,515,746
+Trainable params: 2,562
+Non-trainable params: 6,513,184
+Total mult-adds (M): 568.45
+============================================================================================================================================
+Input size (MB): 0.60
+Forward/backward pass size (MB): 149.56
+Params size (MB): 26.06
+Estimated Total Size (MB): 176.23
+
+
+{'test_loss': 0.03175921257934533,
+ 'test_acc': 0.99609375,
+ 'number_of_parameters': 6515746,
+ 'model_size (MB)': 25}

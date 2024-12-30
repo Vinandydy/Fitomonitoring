@@ -1,0 +1,7 @@
+torch
+torchvision
+py-telegram-bot
+matplotlib
+Pillow
+torchinfo
+tqdm
